@@ -1,6 +1,8 @@
 [submodule "libmatroska"]
 	path = libmatroska
 	url = https://github.com/atom-b/libmatroska.git
+	branch = master
 [submodule "libebml"]
 	path = libebml
 	url = https://github.com/atom-b/libebml.git
+	branch = master
