@@ -3,4 +3,4 @@
 	url = https://github.com/atom-b/libmatroska.git
 [submodule "libebml"]
 	path = libebml
-	url = https://github.com/Matroska-Org/libebml.git
+	url = https://github.com/atom-b/libebml.git
